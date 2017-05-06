@@ -7,4 +7,5 @@
 - [X] git add
 - [X] git commit
 - [ ] git push
-- [ ] git branch / new branch john
+- [ ] git branch / new branch john.
+
