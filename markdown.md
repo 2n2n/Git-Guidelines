@@ -8,5 +8,5 @@
 - [X] git add
 - [X] git commit
 - [X] git push
-- [ ] git branch
-- [ ] merge
+- [X] git branch
+- [X] merge
