@@ -4,6 +4,7 @@
 
 - [X] git clone
 - [ ] git pull
+- [ ] git status
 - [X] git add
 - [X] git commit
 - [ ] git push
