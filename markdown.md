@@ -3,9 +3,10 @@
 ## Syntax:
 
 - [X] git clone -ok
-- [ ] git pull
-- [ ] git status
+- [X] git pull
+- [X] git status
 - [X] git add
 - [X] git commit
-- [ ] git push
+- [X] git push
 - [ ] git branch
+- [ ] merge
