@@ -2,7 +2,7 @@
 
 ## Syntax:
 
-- [X] git clone
+- [X] git clone -ok
 - [ ] git pull
 - [X] git add
 - [X] git commit
