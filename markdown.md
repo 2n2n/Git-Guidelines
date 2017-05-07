@@ -8,5 +8,9 @@
 - [X] git commit
 - [ ] git push
 - [ ] git branch / new branch john.
-
+- [ ] PHP
+- [ ] JavaScript
+- [ ] MySQL
+- [ ] MS SQL Server
+- [ ] Python	
 
