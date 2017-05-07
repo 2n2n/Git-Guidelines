@@ -14,5 +14,6 @@
 - [X] MySQL
 - [X] MS SQL Server
 - [X] Python
-- [X] Jam paki mark X ok	
+- [X] Jam paki mark X ok
+- [ ] Nice 	
 
