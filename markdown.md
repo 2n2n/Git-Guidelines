@@ -12,5 +12,6 @@
 - [X] JavaScript
 - [X] MySQL
 - [X] MS SQL Server
-- [X] Python	
+- [X] Python
+- [ ] Jam paki mark X 	
 
