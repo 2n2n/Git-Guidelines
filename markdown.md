@@ -3,8 +3,16 @@
 ## Syntax:
 
 - [X] git clone
+- [X] git clone -ok
 - [X] git pull
 - [X] git add
 - [X] git commit
-- [ ] git push
-- [ ] git branch
+- [X] git push
+- [X] git branch / new branch john.
+- [X] PHP
+- [X] JavaScript
+- [X] MySQL
+- [X] MS SQL Server
+- [X] Python
+- [X] Jam paki mark X ok	
+
