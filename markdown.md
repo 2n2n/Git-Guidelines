@@ -15,4 +15,5 @@
 - [X] MS SQL Server
 - [X] Python
 - [X] Jam paki mark X ok	
+- [ ] TRY
 
