@@ -12,3 +12,15 @@
 
 
 
+
+
+### Clone
+clone repo to computer.
+
+```
+// ssh
+$ git clone git@github.com:<username>/<repository_name>.git
+
+// http
+$ https://github.com/<username>/<repository_name>.git
+```
