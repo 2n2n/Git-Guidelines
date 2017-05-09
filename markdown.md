@@ -14,9 +14,9 @@
 
 
 
-### Clone
-clone repo to computer.
+Clone
 ---
+clone server repository to computer.
 ```
 // ssh
 $ git clone git@github.com:<username>/<repository_name>.git
