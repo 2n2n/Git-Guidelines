@@ -11,9 +11,9 @@
 - [X] git branch / new branch john.
 - [X] PHP
 - [X] JavaScript
-- [ ] MySQL
-- [ ] MS SQL Server
-- [ ] Python
-- [ ] Jam paki mark X ok
-- [ ] Nice 	
+- [X] MySQL
+- [X] MS SQL Server
+- [X] Python
+- [X] Jam paki mark X ok
+- [X] Nice 	
 
