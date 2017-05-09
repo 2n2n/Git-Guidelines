@@ -9,12 +9,6 @@
 - [X] git commit
 - [X] git push
 - [X] git branch / new branch john.
-- [X] PHP
-- [X] JavaScript
-- [X] MySQL
-- [X] MS SQL Server
-- [X] Python
-- [X] Jam paki mark X ok
-- [X] Nice
-   	
+
+
 
